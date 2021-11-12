@@ -1,5 +1,5 @@
 <?php
-$hostname="foodvibes";
+$hostname="localhost";
 $user_name="root";
 $password="";
 $db="dbfood";
