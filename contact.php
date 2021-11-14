@@ -228,8 +228,8 @@ ul li a:hover{text-decoration:none;}
 	</div>
     <div class="col-sm-4" style="padding:30px;">
 	   <div class="form-group">
-           <i class="fa fa-phone" aria-hidden="true"></i>&nbsp;<b>7503515386</b><br><br>
-			<i class="fa fa-home" aria-hidden="true"></i>&nbsp; 23-A ,North-East Campus,Kingsway,London Zip Code-2000411<br>(24*7 Days)
+           <i class="fa fa-phone" aria-hidden="true"></i>&nbsp;<b>9848022338</b><br><br>
+			<i class="fa fa-home" aria-hidden="true"></i>&nbsp; 32-A, South-East Campus, Kingsway, Singapore Zip Code-2100421<br>(24*7 Days)
 	       
 	   </div>
 	</div>

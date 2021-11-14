@@ -266,25 +266,13 @@ ul li a:hover{text-decoration:none;}
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="img/Screenshot 2021-11-09 174441.jpg" alt="Los Angeles" class="d-block w-100">
-      <div class="carousel-caption">
-        <h3>Los Angeles</h3>
-        <p>We had such a great time in LA!</p>
-      </div>   
+      <img src="img/Screenshot 2021-11-09 174441.jpg" alt="Los Angeles" class="d-block w-100">  
     </div>
     <div class="carousel-item">
-      <img src="img/pastaveg_640x480.jpg" alt="Chicago" class="d-block w-100">
-      <div class="carousel-caption">
-        <h3>Chicago</h3>
-        <p>Thank you, Chicago!</p>
-      </div>   
+      <img src="img/pastaveg_640x480.jpg" alt="Chicago" class="d-block w-100"> 
     </div>
     <div class="carousel-item">
-      <img src="img/images (4).jpg" alt="New York" class="d-block w-100">
-      <div class="carousel-caption">
-        <h3>New York</h3>
-        <p>We love the Big Apple!</p>
-      </div>   
+      <img src="img/images (4).jpg" alt="New York" class="d-block w-100">  
     </div>
   </div>
   <a class="carousel-control-prev" href="#demo" data-slide="prev">
